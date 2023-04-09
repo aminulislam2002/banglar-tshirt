@@ -1,0 +1,10 @@
+nav {
+  background-color: aqua;
+  padding: 10px;
+}
+nav a {
+  margin: 50px;
+  padding: 5px 10px;
+  border-radius: 8px;
+  background-color: aquamarine;
+}
